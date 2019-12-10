@@ -10,7 +10,8 @@ First follow the instructions for [installing keras].
 [installing keras]:    https://keras.io/#installation/ 
 
 Then cole this repository using 
-$ git clone https:
+
+$ git clone https://github.com/jyzhuo/DeepTCNet
 
 ### Sample code
 With default flags, this loads the pre-trained DeepTCNet model, and then passes an example infrared imagry of Typhoon Lekima(2018) at ##UTC on Aug.# through the model.
