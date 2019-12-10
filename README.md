@@ -1,6 +1,6 @@
 # DeepTCNet
 ## Overview
-This repository contains trained models reported in the paper "##" by Jing-Yi Zhuo and Zhe-Min Tan. The paper was under the review of ##.
+This repository contains trained models reported in the paper "##" by Jing-Yi Zhuo and Zhe-Min Tan. The paper was under the review of Journal of Advances in Modeling Earth Systems.
 
 ## Running the code
 ### Setup
