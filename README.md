@@ -1,8 +1,6 @@
 # DeepTCNet
 ## Overview
-This repository contains trained models reported in the paper "##" by Jing-Yi Zhuo and Zhe-Min Tan. The paper was published on ##.
-....
-
+This repository contains trained models reported in the paper "##" by Jing-Yi Zhuo and Zhe-Min Tan. The paper was under the review of ##.
 
 ## Running the code
 ### Setup
@@ -22,4 +20,6 @@ Using the default flags, the output should resemble the following.
 ...
 
 ## Further details
- 
+The directory best_models/ contains our best performing model, which was trained on ##.
+
+The directory sen_models/ contains the models built up in the sensitivity experiments.
