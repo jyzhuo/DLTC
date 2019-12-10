@@ -9,7 +9,7 @@ First follow the instructions for [installing keras].
 
 [installing keras]:    https://keras.io/#installation/ 
 
-Then cole this repository using 
+Then colone this repository using 
 
 $ git clone https://github.com/jyzhuo/DeepTCNet
 
