@@ -22,7 +22,9 @@ Using the default flags, the output should resemble the following.
 
 
 ### Running the test
-This script loads the DeepTCNet to estiamte the intensity and size of North Atlantic hurricanes (NATC) in 2017. The DeepTCNet is our best performing model collection, including one for intensity estiamtion and the other for size estimation. The DeepTCNet are trained with NATC samples in 1988-2014, and called early stop using NATCs in 2015-16. On the test set: NATCs in 2017, we obtained the following erros (the metrics are counted in comparision to the best track):
+This script loads the DeepTCNet to estiamte the intensity and size of North Atlantic hurricanes (NATC) in 2017. 
+
+The DeepTCNet is our best performing model collection, including one for intensity estiamtion and the other for size estimation. The DeepTCNet are trained with NATC samples in 1988-2014, and called early stop using NATCs in 2015-16. On the test set: NATCs in 2017, we obtained the following erros (the metrics are counted in comparision to the best track):
 ...
 
 ## Further details
