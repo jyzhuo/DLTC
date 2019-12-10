@@ -4,8 +4,8 @@ This repository contains trained models reported in the paper "##" by Jing-Yi Zh
 
 ## Running the code
 ### Setup
-First follow the instructions for [installing Keras]: [1].
-[1]: https://keras.io/#installation/  "installing Keras"
+First follow the instructions for [installing keras] [].
+[installing keras]:    https://keras.io/#installation/  "installing Keras"
 
 Then cole this repository using 
 $ git clone https:
