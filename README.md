@@ -14,7 +14,8 @@ Then clone this repository using
 $ git clone https://github.com/jyzhuo/DeepTCNet
 
 ### Sample code
-This loads the pre-trained DeepTCNet model, and then passes an example infrared imagry of Typhoon Lekima(2019) from Augest 5th to Augest 10th. through the model.
+This loads the pre-trained DeepTCNet model, and then passes an example infrared imagry of Typhoon Lekima(2019) through the model.
+The DeepTCNet analysies Lekima(2019) from Aug.5 to Aug.10.
 
 This script outputs the intensity, includes maximum surface wind (MSW; unit: kt) and minimum seasurface pressure(MSLP; unit: hPa), as well as the size, includes radius of maximum wind (RMW; Unit: nmi) and critical wind radii of 34-, 50- and 64-kt wind (R34, R50 and R64, respectively; Unit: nmi)  of Lekima.
 
